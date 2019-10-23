@@ -1,2 +1,1 @@
-echo 'hello world';
-echo 'this is a test';
+echo 'this is a test 22';
