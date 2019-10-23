@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\v4\zjjx_android\app\libs\interface_3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d3ca72cd04d2aef20e9533d747e6a5659b7b2f0b">
+        <dex dex="C:\Users\Administrator\Desktop\v4\zjjx_android\app\build\intermediates\transforms\dex\debug\folders\1000\2\interface_3.2.0_5faf3b0d61cbdf10eae9ad0874bde3b67b7e19ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\v4\zjjx_android\app\libs\interface_3.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d3ca72cd04d2aef20e9533d747e6a5659b7b2f0b">
+        <dex dex="C:\Users\Administrator\Desktop\v4\zjjx_android\app\build\intermediates\pre-dexed\release\interface_3.2.0_5faf3b0d61cbdf10eae9ad0874bde3b67b7e19ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\v4\zjjx_android\app\libs\SaaS_GameAnalytics_Android_SDK_V4.0.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0dc1f91abd73b97f440845a4dda16ded086259c6">
+        <dex dex="C:\Users\Administrator\Desktop\v4\zjjx_android\app\build\intermediates\pre-dexed\release\SaaS_GameAnalytics_Android_SDK_V4.0.9_1fe2500d7b56da444a8b6096194e7661258f4453.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\4631d269b7e49e6199d2603b3390d172867a0a40\output\jars\libs\egretNativeAndroid.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="50dca0e29026fb2fe6bfaa263a18519fb551421d">
+        <dex dex="C:\Users\Administrator\Desktop\v4\zjjx_android\app\build\intermediates\pre-dexed\release\egretNativeAndroid_a6290847a45b77bd00ae768cc593d2c8fbd08bbc.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\v4\zjjx_android\app\libs\android-support-v4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1dc1f63cee098b27db60b9a2833fd7ca58f89636">
+        <dex dex="C:\Users\Administrator\Desktop\v4\zjjx_android\app\build\intermediates\transforms\dex\debug\folders\1000\2\android-support-v4_e175706ffe90ca5c81daea23fe8fead081d00f6e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\v4\zjjx_android\app\libs\SaaS_GameAnalytics_Android_SDK_V4.0.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0dc1f91abd73b97f440845a4dda16ded086259c6">
+        <dex dex="C:\Users\Administrator\Desktop\v4\zjjx_android\app\build\intermediates\transforms\dex\debug\folders\1000\2\SaaS_GameAnalytics_Android_SDK_V4.0.9_1fe2500d7b56da444a8b6096194e7661258f4453\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\v4\zjjx_android\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d153d6f0bcc1fbe713f7d2b06a28b6d80adeda2a">
+        <dex dex="C:\Users\Administrator\Desktop\v4\zjjx_android\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_c20f91606af060f96849e01af34330448881bc08\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\v4\zjjx_android\app\libs\SaaS_AdTracking_Android_SDK_V4.0.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="aa252e52be478eea0126207748c90f744a01e5e8">
+        <dex dex="C:\Users\Administrator\Desktop\v4\zjjx_android\app\build\intermediates\pre-dexed\release\SaaS_AdTracking_Android_SDK_V4.0.9_da1979e84db0e90e718630d6f1d1ea7302e7c05c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\v4\zjjx_android\app\libs\SaaS_AdTracking_Android_SDK_V4.0.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="aa252e52be478eea0126207748c90f744a01e5e8">
+        <dex dex="C:\Users\Administrator\Desktop\v4\zjjx_android\app\build\intermediates\transforms\dex\debug\folders\1000\2\SaaS_AdTracking_Android_SDK_V4.0.9_da1979e84db0e90e718630d6f1d1ea7302e7c05c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\v4\zjjx_android\app\libs\android-support-v4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1dc1f63cee098b27db60b9a2833fd7ca58f89636">
+        <dex dex="C:\Users\Administrator\Desktop\v4\zjjx_android\app\build\intermediates\pre-dexed\release\android-support-v4_e175706ffe90ca5c81daea23fe8fead081d00f6e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\v4\zjjx_android\app\libs\JSGameData1.2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0836058886df38bad38d6c026b882e271919c4a9">
+        <dex dex="C:\Users\Administrator\Desktop\v4\zjjx_android\app\build\intermediates\transforms\dex\debug\folders\1000\2\JSGameData1.2.4_ce3b22373fdc7997beee37c2cb65057158c06516\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\v4\zjjx_android\app\libs\JSGameData1.2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0836058886df38bad38d6c026b882e271919c4a9">
+        <dex dex="C:\Users\Administrator\Desktop\v4\zjjx_android\app\build\intermediates\pre-dexed\release\JSGameData1.2.4_ce3b22373fdc7997beee37c2cb65057158c06516.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\v4\zjjx_android\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\Administrator\Desktop\v4\zjjx_android\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_4837612ef1e03c70fd12583a4fa5f530787824a4\classes.dex" />
+    </item>
+
+</items>
