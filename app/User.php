@@ -16,7 +16,9 @@ class User extends Authenticatable
      * @var array
      */
     protected $fillable = [
-        'name', 'email', 'password',
+        'name',
+        'email',
+        'password',
     ];
 
     /**
@@ -25,7 +27,8 @@ class User extends Authenticatable
      * @var array
      */
     protected $hidden = [
-        'password', 'remember_token',
+        'password',
+        'remember_token',
     ];
 
     /**
@@ -36,4 +39,34 @@ class User extends Authenticatable
     protected $casts = [
         'email_verified_at' => 'datetime',
     ];
+
+    public function blogs()
+    {
+        return $this->hasMany(Blog::class, 'user_id');
+    }
+
+    public function follower()
+    {
+        return $this->belongsToMany(User::class, 'follows', 'user_id', 'follower');
+    }
+
+    public function following()
+    {
+        return $this->belongsToMany(User::class, 'follows', 'follower', 'user_id');
+    }
+
+    public function isFollow($uid)
+    {
+        return $this->follower()->wherePivot('follower', $uid)->first();
+    }
+
+    //关注或取关
+    public function followToggle($ids)
+    {
+        $ids = is_array($ids) ?: [$ids];
+
+        // dd($ids);
+
+        return $this->follower()->withTimestamps()->toggle($ids);
+    }
 }
